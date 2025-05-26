@@ -22,4 +22,3 @@
 
 
 
-![Snake animation](https://github.com/Gabyzoca/Gabyzoca/blob/output/github-contribution-grid-snake.svg)
