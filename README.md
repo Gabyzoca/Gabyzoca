@@ -6,7 +6,7 @@
 
 Atualmente estou aprofundando meus conhecimentos em desenvolvimento de software, com foco em **Python, JavaScript, Node.js, React e AWS**.
 
-Também atuo como instrutora de tecnologia, ensinando programação e ferramentas digitais para diferentes públicos.
+Também atuo como instrutora de tecnologia, ensinando programação e ferramentas digitais para crianças/adolescentes.
 
 ---
 
