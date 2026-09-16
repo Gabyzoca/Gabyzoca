@@ -1,24 +1,78 @@
-## Oláááá, Sou a Gaby!
-<div>
-<img width="45%"  weight="20%" src="https://github-readme-stats.vercel.app/api?username=Gabyzoca&count_private=true&show_icons=true&theme=tokyonight">
-<img width="45%" weight="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabyzoca&theme=tokyonight">
+# Olá! Eu sou a Gaby 👋
+
+🎓 Estudante de **Ciência da Computação**
+💻 Estudando **Desenvolvimento Full Stack e Cloud**
+👩‍🏫 Instrutora de Tecnologia
+
+Atualmente estou aprofundando meus conhecimentos em desenvolvimento de software, com foco em **Python, JavaScript, Node.js, React e AWS**.
+
+Também atuo como instrutora de tecnologia, ensinando programação e ferramentas digitais para diferentes públicos.
+
+---
+
+## 🚀 Tecnologias
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="45" alt="HTML5">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="45" alt="CSS3">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="45" alt="JavaScript">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="45" alt="Python">
 </div>
 
-<div style="display: inline_block"><br>
- <img align="center" alt="Gabs-html" width="40" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg">
- <img align="center" alt="Gabs-css" width="40" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
- <img align="center" alt="Gabs-js" width="40" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
- <img align="center" alt="Gabs-py" width="40" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
- <img align="right" alt="Gabs-gif" width="100" weight="110" src="https://cdn.discordapp.com/attachments/1376395312171712574/1376395425963053086/gif_git.gif?ex=68352ba1&is=6833da21&hm=9980b1843d99cf0a2c03efbd5cd3b5e31b38f69679364dc03ba94ad6ecb64bc0&">
- 
+---
+
+## 📚 Atualmente estudando
+
+* ☁️ AWS e Cloud Computing
+* 🌐 JavaScript e Node.js
+* ⚛️ React
+* 🐍 Python
+* 🗄️ Desenvolvimento de APIs e integração de sistemas
+
+---
+
+## 💻 Projetos
+
+### 🎮 Projetos com Python e Pygame
+
+Desenvolvimento de pequenos jogos para praticar lógica de programação, orientação a objetos e desenvolvimento de aplicações gráficas.
+
+### 📊 Projetos Web
+
+Projetos utilizando **HTML, CSS, JavaScript e bibliotecas web**, buscando desenvolver interfaces e aplicações interativas.
+
+### ☁️ Projetos com AWS
+
+Projetos e estudos voltados para **Cloud Computing, Serverless, Lambda e serviços da AWS**.
+
+> 🚧 Esta seção está em constante atualização conforme novos projetos são desenvolvidos.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gabyzoca&show_icons=true&count_private=true&theme=tokyonight&hide_border=true">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabyzoca&layout=compact&theme=tokyonight&hide_border=true">
+
 </div>
 
-##
+---
 
-<div>
-  <a href="mailto:r.gabriellatech@gmai.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriellarodriguesdasilva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+## 📫 Onde me encontrar
+
+<div align="center">
+
+<a href="mailto:r.gabriellatech@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/gabriellarodriguesdasilva/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
 </div>
-
-
 
